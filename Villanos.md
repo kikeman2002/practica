@@ -1,0 +1,4 @@
+browser
+wario
+waluigie
+Guason
