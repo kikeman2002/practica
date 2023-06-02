@@ -1,4 +1,3 @@
 browser
 wario
 waluigie
-Guason
