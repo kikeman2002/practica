@@ -6,3 +6,6 @@ Capitan america
 batman
 flash
 aquaman
+flash
+aquaman
+polloman
