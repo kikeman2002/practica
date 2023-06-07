@@ -10,3 +10,6 @@ flash
 aquaman
 polloman
 momoa
+Superman
+Mujer ardilla
+Venom(Bueno)
