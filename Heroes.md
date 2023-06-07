@@ -13,3 +13,5 @@ momoa
 Superman
 Mujer ardilla
 Venom(Bueno)
+Deadpool
+moonKNight
